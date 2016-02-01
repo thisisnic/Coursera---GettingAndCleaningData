@@ -1,3 +1,22 @@
-# Code Book
+# Codebook
 
-Here, I will describes the variables, the data, and any transformations or work that you performed to clean up the data.
+## Variables
+Subject- Subject (1-30)
+Activity- Six different activities
+BodyAcc- Body acceleration signal in standard gravity units (g)
+GravityAcc- Gravity acceleration signal in standard gravity units (g)
+BodyAccJerk- Body acceleration jerk in standard gravity units (g)
+BodyGyro- Derviced from gyroscore
+BodyGyroJerk-  body linear acceleration and angular velocity
+BodyAccMag-  body linear acceleration and angular velocity
+GravityAccMag-  body linear acceleration and angular velocity
+BodyAccJerkMag-  body linear acceleration and angular velocity
+BodyGyroMag-  body linear acceleration and angular velocity
+BodyGyroJerkMag-  body linear acceleration and angular velocity
+BodyAcc- Body acceleration signal in standard gravity units (g)
+BodyAccJerk- Body acceleration jerk in standard gravity units (g)
+BodyGyro- Derviced from gyroscore
+BodyAccMag-  body linear acceleration and angular velocity
+BodyBodyAccJerkMag-  body linear acceleration and angular velocity
+BodyBodyGyroMag-  body linear acceleration and angular velocity
+BodyBodyGyroJerkMag-  body linear acceleration and angular velocity
