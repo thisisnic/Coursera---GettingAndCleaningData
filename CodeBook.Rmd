@@ -6,7 +6,7 @@ Activity- Six different activities
 BodyAcc- Body acceleration signal in standard gravity units (g)
 GravityAcc- Gravity acceleration signal in standard gravity units (g)
 BodyAccJerk- Body acceleration jerk in standard gravity units (g)
-BodyGyro- Derviced from gyroscore
+BodyGyro- from gyroscore
 BodyGyroJerk-  body linear acceleration and angular velocity
 BodyAccMag-  body linear acceleration and angular velocity
 GravityAccMag-  body linear acceleration and angular velocity
