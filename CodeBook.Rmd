@@ -15,7 +15,7 @@ BodyGyroMag-  body linear acceleration and angular velocity
 BodyGyroJerkMag-  body linear acceleration and angular velocity
 BodyAcc- Body acceleration signal in standard gravity units (g)
 BodyAccJerk- Body acceleration jerk in standard gravity units (g)
-BodyGyro- Derviced from gyroscore
+BodyGyro-  from gyroscore
 BodyAccMag-  body linear acceleration and angular velocity
 BodyBodyAccJerkMag-  body linear acceleration and angular velocity
 BodyBodyGyroMag-  body linear acceleration and angular velocity
