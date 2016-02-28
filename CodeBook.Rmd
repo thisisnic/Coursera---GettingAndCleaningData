@@ -1,22 +1,41 @@
 # Codebook
 
 ## Variables
-Subject- Subject (1-30)
-Activity- Six different activities
-BodyAcc- Body acceleration signal in standard gravity units (g)
-GravityAcc- Gravity acceleration signal in standard gravity units (g)
-BodyAccJerk- Body acceleration jerk in standard gravity units (g)
+
+Subject - Subject (1-30)
+
+Activity - Six different activities
+
+BodyAcc - Body acceleration signal in standard gravity units (g)
+
+GravityAcc - Gravity acceleration signal in standard gravity units (g)
+
+BodyAccJerk - Body acceleration jerk in standard gravity units (g)
+
 BodyGyro- from gyroscore
+
 BodyGyroJerk-  body linear acceleration and angular velocity
-BodyAccMag-  body linear acceleration and angular velocity
-GravityAccMag-  body linear acceleration and angular velocity
-BodyAccJerkMag-  body linear acceleration and angular velocity
-BodyGyroMag-  body linear acceleration and angular velocity
-BodyGyroJerkMag-  body linear acceleration and angular velocity
+
+BodyAccMag - body linear acceleration and angular velocity
+
+GravityAccMag - body linear acceleration and angular velocity
+
+BodyAccJerkMag - body linear acceleration and angular velocity
+
+BodyGyroMag - body linear acceleration and angular velocity
+
+BodyGyroJerkMag - body linear acceleration and angular velocity
+
 BodyAcc- Body acceleration signal in standard gravity units (g)
-BodyAccJerk- Body acceleration jerk in standard gravity units (g)
-BodyGyro-  from gyroscore
-BodyAccMag-  body linear acceleration and angular velocity
-BodyBodyAccJerkMag-  body linear acceleration and angular velocity
-BodyBodyGyroMag-  body linear acceleration and angular velocity
-BodyBodyGyroJerkMag-  body linear acceleration and angular velocity
+
+BodyAccJerk - Body acceleration jerk in standard gravity units (g)
+
+BodyGyro -  from gyroscore
+
+BodyAccMag -  body linear acceleration and angular velocity
+
+BodyBodyAccJerkMag -  body linear acceleration and angular velocity
+
+BodyBodyGyroMag -  body linear acceleration and angular velocity
+
+BodyBodyGyroJerkMag -  body linear acceleration and angular velocity
