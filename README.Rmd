@@ -1,0 +1,6 @@
+# Files
+run_analysis.R - contains script to run the anlaysis
+CodeBook.Rmd - contains the codebook
+
+# Other
+The data has been extracted to folder "UCI HAR Dataset" - if the analysis code is to be run after downloading the entire folder, lines 2-4 of run_analysis.R are redundant as they are included to download the data folder.
